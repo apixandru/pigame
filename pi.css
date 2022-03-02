@@ -1,0 +1,65 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+body {
+/* 	font-family: "Aller"; */
+	font-size: 10em;
+	color: #fff;
+	text-align: center;
+	background: #1a1a1a;
+	margin: 0 auto;
+	display: table;
+}
+
+#n1 {
+	font-size: 2em;
+}
+
+#n2 {
+	font-size: 1.75em;
+}
+
+#n3 {
+	font-size: 1.50em;
+}
+
+#n4 {
+	font-size: 1.25em;
+
+}
+#n5 {
+	font-size: 1.0em;
+}
+
+#n6 {
+	font-size: 0.75em;
+}
+
+#n7 {
+	font-size: 0.60em;
+}
+
+#n8 {
+	font-size: 0.45em;
+}
+
+#n9 {
+	font-size: 0.3em;
+}
+
+.login {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#info {
+	font-size: 0.1em;
+	position:fixed;
+ 	padding:3px;	
+	bottom:0;
+	left:0;
+}
